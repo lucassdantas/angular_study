@@ -19,7 +19,7 @@ import { RouterModule } from '@angular/router';
       <router-outlet></router-outlet>
     </section>
   </main>
-  `,
+`,
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
